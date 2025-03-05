@@ -9,4 +9,4 @@ tags={
 	"Graphics"
 }
 name="WIPColdWar/CivilWar mod"
-supported_version="1.16.0"
+supported_version="1.16*"
