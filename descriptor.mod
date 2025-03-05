@@ -10,3 +10,4 @@ tags={
 }
 name="WIPColdWar/CivilWar mod"
 supported_version="1.16*"
+picture="thumbnail.png"
