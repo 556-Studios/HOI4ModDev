@@ -1,0 +1,6 @@
+l_english:
+
+# Welcome message
+ welcome.1.t:0 "Welcome to ADD NAME"
+ welcome.1.d:0 "To be added\n\nWelcome to ADD NAME Early Access. This is an early version of the mod, we cannot guarantee content or that everything (or anything, really) works correctly. Thank you for giving us a try. Join our discord to join the community, ask questions, voice concerns, make suggestions, etc."
+ welcome.1.a:0 "Fuck."
