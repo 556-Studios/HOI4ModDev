@@ -1,0 +1,30 @@
+bookmarks = {
+	bookmark = {
+		name = "The Cold War but hell"
+		desc = "I have itchy balls."
+		date = 9999.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = no
+		
+
+		"UNC"={
+			history = "I have itchy balls."
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+	
+		
+		
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
