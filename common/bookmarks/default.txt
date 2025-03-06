@@ -9,7 +9,7 @@ bookmarks = {
 		
 
 		"UNC"={
-			history = "USA_GATHERING_STORM_DESC"
+			history = "I have itchy balls."
 			ideology = democratic
 			ideas = {
 			
