@@ -1,1 +1,2 @@
 UNC = "countries/unclamed.txt"
+AFS = "countries/americanfederationofstates.txt"
